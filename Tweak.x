@@ -43,7 +43,7 @@
 
 // 原代码
 // https://mp.weixin.qq.com/s/XAZRs9bh9GRyuhJATMNPNA
-%hook XMXXTEA
+// %hook XMXXTEA
 
 // +(id)decryptBase64String:(NSString*)stringData stringKey:(NSString*)key {
   // NSData*data = %orig; // 获取原始数据
@@ -82,6 +82,6 @@
   // NSData*data_result = [NSJSONSerialization dataWithJSONObject:result options:NSJSONWritingPrettyPrinted error:nil];
   // NSLog(@"www.apibug.com : %@", data_result);
   // return data_result;
-}
+// }
 
-%end
+// %end
