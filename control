@@ -1,0 +1,12 @@
+Package: com.sttt.stormsniffercrack
+Name: Storm Sniffer Crack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Storm Sniffer Crack
+Maintainer: STTT
+Author: STTT
+Section: Crack
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://Mieing.Github.io/repo/file/Storm%20Sniffer.png
+
+
